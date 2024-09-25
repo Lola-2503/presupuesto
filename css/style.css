@@ -1,0 +1,54 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f5f5f5;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 80%;
+	margin: 20px auto;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	text-align: center;
+	color: #333;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+}
+
+table th, table td {
+	padding: 10px;
+	border: 1px solid #ddd;
+	text-align: left;
+}
+
+button {
+	margin-top: 10px;
+	padding: 10px;
+	background-color: #28a745;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #218838;
+}
+
+button:active {
+	background-color: #1e7e34;
+}
+
+.totales {
+	margin-top: 20px;
+}
